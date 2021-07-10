@@ -2,9 +2,9 @@
 title: Le portail
 description: 
 published: true
-date: 2021-01-11T19:21:58.809Z
+date: 2021-07-10T17:14:04.485Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2021-01-04T16:07:53.738Z
 ---
 
@@ -27,6 +27,17 @@ Pour y accéder, vous devez d'abord avoir reçu des identifiants et les avoir en
 - [Documentation](/outils-numeriques/documentation)
 
 ![export.svg](/export.svg)
+
+# Questions fréquentes
+
+- Mon mot de passe est trop compliqué, comment le changer ?
+
+Connectez-vous et cliquez sur le bouton [Edit My Profile](https://portail.getigne-collectif.fr/yunohost/sso/edit.html), en bas à droite du portail. Ensuite, cliquez sur le bouton `Change Password`
+![change-password.gif](/change-password.gif)
+
+- J'ai oublié mon mot de passe, comment le changer ?
+
+La fonctionnalité de réinitialisation de mot de passe n'existe pas encore, contactez le support à l'adresse [info@getigne-collectif.fr](mailto:info@getigne-collectif.fr).
 
 # Yunohost
 
