@@ -2,9 +2,9 @@
 title: Les emails
 description: 
 published: true
-date: 2021-01-11T17:27:35.489Z
+date: 2021-09-20T20:06:59.618Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2021-01-11T17:23:55.150Z
 ---
 
@@ -27,8 +27,7 @@ Entrez les informations suivantes :
 | IMAP | 993 | SSL/TLS | Mot de passe normal | nom_dutilisateur (sans @getigne-collectif.fr) |
 | SMTP | 587 | STARTTLS | Mot de passe normal | nom_dutilisateur (sans @getigne-collectif.fr) |
 
-
-![capture-thunderbird.jpg](/outils/capture-thunderbird.jpg)
+![config-thunderbird.png](/config-thunderbird.png)
 
 > Si cette capture ne vous suffit pas ou que vous ne savez pas ou entrer ces informations, vous pouvez compléter avec la lecture de [cette page](https://yunohost.org/#/email_configure_client_fr) ou demander de l'aide sur le chat.
 {.is-info}
