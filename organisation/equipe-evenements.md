@@ -2,18 +2,20 @@
 title: Organisation de l'équipe événements
 description: 
 published: true
-date: 2022-03-25T10:26:46.819Z
+date: 2022-03-25T10:30:15.998Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-25T10:26:46.819Z
 ---
 
-# Organisation de l'équipe événements
-
 ## C’est qui ?
-- Mélanie Baillard
-- Gabriel Saillard
-- Clara Lefèvre (à distance et dépend de ses déplacements)
+- [Mélanie Baillard](mailto:melanie.baillard@getigne-collectif.fr)
+- [Gabriel Saillard](mailto:gabriel.saillard@getigne-collectif.fr)
+- [Clara Lefèvre](mailto:clara.lefevre@getigne-collectif.fr) (à distance et dépend de ses déplacements)
+
+> L'équipe est joignable à l'adresse evenements@getigne-collectif.fr
+{.is-success}
+
 
 ## On fait quoi ?
 - Proposez des événements en fonction des demandes et des sujets d’actualité pour amener de la
@@ -32,7 +34,7 @@ si besoin.
 {.is-info}
 
 
-- Si des infos concerne les événements, le bureau informe directement les bénévoles de la commission par mail (ne pas compter sur les CR du bureau qui ne seront peut-être pas lu systématiquement).
+- Si des infos concernent les événements, le bureau informe directement les bénévoles de la commission par mail [evenements@getigne-collectif.fr](mailto:evenements@getigne-collectif.fr) (ne pas compter sur les CR du bureau qui ne seront peut-être pas lu systématiquement).
 
 ## Le lien avec les élus :
 - On laisse le bureau s’occuper d’informer les élus de ce qui se passe. Ça ne nous empêche pas de papoter avec eux et de leurs proposer d’animer certains événements !
