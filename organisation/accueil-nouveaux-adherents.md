@@ -2,7 +2,7 @@
 title: Accueillir de nouvelles·eaux adhérent·e·s
 description: 
 published: true
-date: 2022-05-09T21:42:28.499Z
+date: 2022-05-09T21:48:03.233Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-09T21:31:58.491Z
@@ -10,9 +10,10 @@ dateCreated: 2022-05-09T21:31:58.491Z
 
 # L'accueil
 
-Adhérer à un collectif comme le notre, ce n'est pas tout à fait comme adhérer à n'importe quelle association. L'objet politique de l'association donne de la profondeur à l'adhésion : on adhère aux idées en même temps, c'est une action engagée et militante.
+Adhérer à un collectif comme le notre peut être assez impréssionant pour certaines personnes. En effet, l'objet politique de l'association donne un statut, un sens spécial, de la profondeur à l'adhésion. Ainsi, le terme adhérer reprend toute sa substance : on adhère aux idées, c'est une action forte, engagée et militante.
 
-## Les différentes manière d'adhérer
+Pour que chaque personne puisse trouver une place qui lui convienne, il était nécessaire de clarifier dès l'adhésion les différentes manières d'adhérer.
+
 
 ## Soutien
 
